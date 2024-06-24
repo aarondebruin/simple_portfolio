@@ -183,5 +183,25 @@ hr{
     margin: auto;
 }
 
-
+.semester {
+    display: inline-block;
+    margin-top: 7%;
+    width: 50%;
+    height: 8%;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none; 
+  }
+  .semester button {
+    width: 100%;
+    height: 100%;
+    border: none;
+    background-color: transparent; 
+    cursor: pointer;
+  }
+  .semester h3 {
+    margin: 0;
+  }
 
